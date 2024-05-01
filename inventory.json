@@ -1,0 +1,28 @@
+{
+    "inventory": {
+        "avocados": [
+            {
+                "code": "001",
+                "name": "Hass",
+                "locations": ["California","Florida"],
+                "prices": [2.99,2.59],
+                "description": "The Hass avocado is a popular variety known for its creamy texture and rich flavor. It is one of the most widely cultivated and consumed avocados globally."
+            },
+            {
+                "code": "002",
+                "name": "Fuerte",
+                "locations": ["California","Florida"],
+                "prices": [3.25,2.99],
+                "description": "The Fuerte avocado is a distinctive variety known for its smooth, creamy texture and nutty flavor. It offers a unique taste experience for avocado enthusiasts."
+            },
+            {
+                "code": "003",
+                "name": "Zutano",
+                "locations": ["California","Texas"],
+                "prices": [2.75,2.49],
+                "description": "The Zutano avocado is a unique variety known for its pear-like shape and mild flavor. It is often praised for its versatility in various culinary applications."
+            
+            }
+        ]
+    }
+}
